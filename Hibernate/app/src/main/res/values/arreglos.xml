@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="videos">
+        <item>Video Personal</item>
+        <item>Capasa de Persistencia</item>
+        <item>Concepto y Definición</item>
+        <item>  Generación de Código</item>
+        <item>Tipos de Relaciones</item>
+        <item>Asociaciones many-to-many</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="temas">
+
+        <item>I. Capas de Persitencia.</item>
+        <item>II. Qué es Hibernate?.</item>
+        <item>III. Generación de Código</item>
+        <item>IV. Tipos de Relaciones.</item>
+        <item>V. Asociaciones Many-to-many.</item>
+        <item>VI. Componentes.</item>
+    </string-array>
+
+
+    <string-array name="descripciones">
+
+        <item>"“Hibernate es una herramienta de Mapeo objeto-relacional (ORM)" +
+            " para la plataforma Java (y disponible también para .Net" +
+            " con el nombre de NHibernate) que facilita el mapeo de" +
+            " atributos entre una base de datos relacional tradicional" +
+            " y el modelo de objetos de una aplicación, mediante archivos" +
+            " declarativos (XML) o anotaciones en los beans de las" +
+            " entidades que permiten establecer estas relaciones",
+            "\n" +
+                    "Hibernate, como la definen sus autores, es una herramienta de mapeo objeto/relacional para ambientes Java.
+            Además no solo se encarga del mapeo de clases Java a tablas de la base de datos (y de regreso),
+            sino que también maneja los queries y recuperación de datos, lo que puede reducir de forma significativa
+            el tiempo de desarrollo que de otra forma gastaríamos manejando los datos de forma manual con SQL y JDBC,
+            encargándose de esta forma de alrededor del 95% de las tareas comunes relacionadas con la persistencia de datos,
+            manejando todos los problemas relativos con la base de datos particular con la que estemos trabajando,
+            de forma transparente para nosotros como desarrolladores. Entonces, si cambiamos el manejador de base de
+            datos no será necesario que modifiquemos todo el SQL que ya teníamos para adaptarse al SQL que maneja la
+            nueva base de datos. Solo será necesario modificar una línea en un archivo de configuración de Hibernate,
+            y este se encargará del resto.\n"</item>
+
+        <item> "La clase \"Contacto\" queda de la siguiente forma:\n" +
+                    "\n" +
+                    "public class Contacto implements Serializable\n" +
+                    "{\n" +
+                    "    private long id;\n" +
+                    "    private String nombre;\n" +
+                    "    private String email;\n" +
+                    "    private String telefono;\n" +
+                    "\n" +
+                    "    public Contacto()\n" +
+                    "    {\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    Para este ejemplo tilizaremos la clase public Contacto(String nombre, String email, String telefono)\n" +
+                    "    {\n" +
+                    "        this.nombre = nombre;\n" +
+                    "        this.email = email;\n" +
+                    "        this.telefono = telefono;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getEmail()\n" +
+                    "    {\n" +
+                    "        return email;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setEmail(String email)\n" +
+                    "    {\n" +
+                    "        this.email = email;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public long getId()\n" +
+                    "    {\n" +
+                    "        return id;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    private void setId(long id)\n" +
+                    "    {\n" +
+                    "        this.id = id;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getNombre()\n" +
+                    "    {\n" +
+                    "        return nombre;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setNombre(String nombre)\n" +
+                    "    {\n" +
+                    "        this.nombre = nombre;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getTelefono()\n" +
+                    "    {\n" +
+                    "        return telefono;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setTelefono(String telefono)\n" +
+                    "    {\n" +
+                    "        this.telefono = telefono;\n" +
+                    "    }\n" +
+                    "}\n" +
+                    "\n" +
+                    "\n"</item>
+
+        <item> "En todo diseño relacional\n" +
+                    "los objetos se referencian unos a otros a través de relaciones, las típicas son : uno a uno\n" +
+                    "1-1, uno a muchos 1-n, muchos a muchos n-m, muchos a uno n-1. De los cuatro tipos,\n" +
+                    "dos de ellas n-m y 1-n son colecciones de objetos las cuales tendrán su propio y extenso\n" +
+                    "apartado, mientras que a las relaciones 1-1 y n-1 son en realidad componentes de un\n" +
+                    "objeto persistente cuyo tipo es otro objeto persistente"</item>
+
+        <item> "En esta asociación tenemos dos clases A y B. Un elemento de A tiene un conjunto de\n" +
+                    "elementos de B hijos, y un elemento de B tiene otro conjunto distinto o igual de elementos\n" +
+                    "de A. Esta estructura se puede diseñar creando una tabla intermedia que relacione los códigos\n" +
+                    "de los elementos de A con los elementos de B. Queda claro por tanto que una colección\n" +
+                    "muchos a muchos se ha de mapear en una tabla a parte con las claves de las dos tablas\n" +
+                    "como claves ajenas. En este punto no tenemos una columna extra en B que diga los elementos de B que le\n" +
+                    "corresponden a un elemento de A. En vez de eso tenemos una tabla nueva A_By_B que\n" +
+                    "contiene los pares de claves relacionados tanto de A hacia B como de B hacia A. Para\n" +
+                    "que sea bidireccional tiene que ser declara en el mapeo de la clase B como sigue, de\n" +
+                    "paso la definimos como el fin de la relación entre las dos tablas. Cualquier otro parámetro,\n" +
+                    "posible para una colección puede ser utilizado aquí ej: lazy, cascade, etc"</item>
+        <item>Un buen diseño relacional necesitará de la composición de objetos. El nombre de la\n" +
+                    "persona, la dirección, una localidad etc.. son todo estructuras de datos que componen\n" +
+                    "objetos más grandes. Una componente en Hibernate es un objeto persistente contenido\n" +
+                    "dentro de la misma tabla de su propietario. ej: Clásico ejemplo del nombre/dirección de\n" +
+                    "una persona, La tabla persona tiene que contener los elementos correspondientes a los objetos name y\n" +
+                    "adress. Así como al resto de las propiedades de persona. Los tipos de estas propiedades\n" +
+                    "pueden ser cualquier tipo de los soportados por Hibernate, incluso más componentes, colecciones y relaciones. Por último destacar que cuando un componente es nulo todas\n" +
+                    "sus propiedades lo son a la hora de guardarlo en la BBDD. En el caso contrario cuando, cargamos un objeto a memoria, si todas las propiedades del elemento son nulas el\n" +
+                    "elemento es nulo\n"</item>
+
+        <item></item>
+
+
+
+
+
+    </string-array>
+</resources>
+

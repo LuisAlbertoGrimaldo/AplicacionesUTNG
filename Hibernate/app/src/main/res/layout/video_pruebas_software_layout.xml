@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fbf7f7"
+    >
+
+    <VideoView
+        android:id="@+id/video_software"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="10dp"
+        android:background="#e11f1f" />
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/btn_referencia_temas"
+
+       android:background="@drawable/sign_in_button"
+       android:textColor="#fff"
+       android:layout_marginBottom="20dp"
+       />
+
+</LinearLayout>

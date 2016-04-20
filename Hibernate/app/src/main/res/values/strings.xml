@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">Hibernate</string>
+
+    <!-- SignUp activity -->
+    <string name="signup_label">Last.fm: Sign Up</string>
+    <string name="signup_create_account">Create Account</string>
+    <string name="edt_usuario">Usuario</string>
+    <string name="signup_password">Crontraseña</string>
+    <string name="signup_email">Tu Correro</string>
+    <string name="signup_saving">Crar una cuenta</string>
+
+    <!-- LastFm main activity -->
+    <string name="main_username">Usuario</string>
+    <string name="main_password">Contraseña</string>
+    <string name="main_login">Login</string>
+    <string name="main_signup"></string>
+    <string name="main_newaccount">&quot;¿Registrate ahaora?&quot;</string>
+    <string name="main_authenticating">Autenticación</string>
+    <string name="main_forgotpassword">Olvidé mi contraseña</string>
+
+    <!--botones -->
+
+    <string name="btn_menu">Menú</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="login_valido">erika</string>
+    <string name="clave_valida">1</string>
+    <string name="error_autenticar">LOGIN O PASS INCORRECTOS</string>
+
+    <!-- pag bienvenido_layout-->
+    <string name="Introduccion">Hibernate es una herramienta de Mapeo objeto-relacion \n
+        (ORM) para la plataforma Java (y disponible también para .Net con el nombre de NHibernate)\n
+        que facilita el mapeo deatributos entre una base de datos relacional tradicional y el \n
+        modelo de objetos de unaaplicación, mediante archivos declarativos (XML) o anotaciones \n
+        en los beanslas entidades que permiten establecer estas relaciones. </string>
+    <string name="intro">Esta aplicación abraca los temas mas importantes de Hibernate.\n\n\n</string>
+
+    <string name="bienvenido">BIENVENIDO AL CURSO DE HIBERNATE \n \n \n</string>
+
+    <!--Menu-->
+    <string name="drawer_opened">Abrió</string>
+    <string name="drawer_closed">Cerro</string>
+    <string name="remitente">tema</string>
+    <string name="asunto">subtema</string>
+    <string name="str_Siguiente">Siguiente</string>
+    <string name="btn_login">login</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="str_next">Siguiente</string>
+    <string name="menu_settings">Configuraiones</string>
+
+<!--Listado de Temas-->
+<string name="ListaDeTemas"> {"I.-Capas de Persistencia","II.- Qué es hibernate",
+            "III.- Generacion de código", "IV.- Tipos de relaciones", "V.- Asociaciones many-to-many",
+            "VI. Componentes."};</string>
+
+    <string name="Temas"> {"\t\n" +
+            "“Hibernate es una herramienta de Mapeo objeto-relacional (ORM)" +
+            " para la plataforma Java (y disponible también para .Net" +
+            " con el nombre de NHibernate) que facilita el mapeo de" +
+            " atributos entre una base de datos relacional tradicional" +
+            " y el modelo de objetos de una aplicación, mediante archivos" +
+            " declarativos (XML) o anotaciones en los beans de las" +
+            " entidades que permiten establecer estas relaciones",
+            "\n" +
+                    "Hibernate, como la definen sus autores, es una herramienta de mapeo objeto/relacional para ambientes Java. Además no solo se encarga del mapeo de clases Java a tablas de la base de datos (y de regreso), sino que también maneja los queries y recuperación de datos, lo que puede reducir de forma significativa el tiempo de desarrollo que de otra forma gastaríamos manejando los datos de forma manual con SQL y JDBC, encargándose de esta forma de alrededor del 95% de las tareas comunes relacionadas con la persistencia de datos, manejando todos los problemas relativos con la base de datos particular con la que estemos trabajando, de forma transparente para nosotros como desarrolladores. Entonces, si cambiamos el manejador de base de datos no será necesario que modifiquemos todo el SQL que ya teníamos para adaptarse al SQL que maneja la nueva base de datos. Solo será necesario modificar una línea en un archivo de configuración de Hibernate, y este se encargará del resto.\n",
+            "La clase \"Contacto\" queda de la siguiente forma:\n" +
+                    "\n" +
+                    "public class Contacto implements Serializable\n" +
+                    "{\n" +
+                    "    private long id;\n" +
+                    "    private String nombre;\n" +
+                    "    private String email;\n" +
+                    "    private String telefono;\n" +
+                    "\n" +
+                    "    public Contacto()\n" +
+                    "    {\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    Para este ejemplo tilizaremos la clase public Contacto(String nombre, String email, String telefono)\n" +
+                    "    {\n" +
+                    "        this.nombre = nombre;\n" +
+                    "        this.email = email;\n" +
+                    "        this.telefono = telefono;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getEmail()\n" +
+                    "    {\n" +
+                    "        return email;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setEmail(String email)\n" +
+                    "    {\n" +
+                    "        this.email = email;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public long getId()\n" +
+                    "    {\n" +
+                    "        return id;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    private void setId(long id)\n" +
+                    "    {\n" +
+                    "        this.id = id;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getNombre()\n" +
+                    "    {\n" +
+                    "        return nombre;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setNombre(String nombre)\n" +
+                    "    {\n" +
+                    "        this.nombre = nombre;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public String getTelefono()\n" +
+                    "    {\n" +
+                    "        return telefono;\n" +
+                    "    }\n" +
+                    "\n" +
+                    "    public void setTelefono(String telefono)\n" +
+                    "    {\n" +
+                    "        this.telefono = telefono;\n" +
+                    "    }\n" +
+                    "}\n" +
+                    "\n" +
+                    "\n",
+            "En todo diseño relacional\n" +
+                    "los objetos se referencian unos a otros a través de relaciones, las típicas son : uno a uno\n" +
+                    "1-1, uno a muchos 1-n, muchos a muchos n-m, muchos a uno n-1. De los cuatro tipos,\n" +
+                    "dos de ellas n-m y 1-n son colecciones de objetos las cuales tendrán su propio y extenso\n" +
+                    "apartado, mientras que a las relaciones 1-1 y n-1 son en realidad componentes de un\n" +
+                    "objeto persistente cuyo tipo es otro objeto persistente",
+            "En esta asociación tenemos dos clases A y B. Un elemento de A tiene un conjunto de\n" +
+                    "elementos de B hijos, y un elemento de B tiene otro conjunto distinto o igual de elementos\n" +
+                    "de A. Esta estructura se puede diseñar creando una tabla intermedia que relacione los códigos\n" +
+                    "de los elementos de A con los elementos de B. Queda claro por tanto que una colección\n" +
+                    "muchos a muchos se ha de mapear en una tabla a parte con las claves de las dos tablas\n" +
+                    "como claves ajenas. En este punto no tenemos una columna extra en B que diga los elementos de B que le\n" +
+                    "corresponden a un elemento de A. En vez de eso tenemos una tabla nueva A_By_B que\n" +
+                    "contiene los pares de claves relacionados tanto de A hacia B como de B hacia A. Para\n" +
+                    "que sea bidireccional tiene que ser declara en el mapeo de la clase B como sigue, de\n" +
+                    "paso la definimos como el fin de la relación entre las dos tablas. Cualquier otro parámetro,\n" +
+                    "posible para una colección puede ser utilizado aquí ej: lazy, cascade, etc",
+
+
+            "Un buen diseño relacional necesitará de la composición de objetos. El nombre de la\n" +
+                    "persona, la dirección, una localidad etc.. son todo estructuras de datos que componen\n" +
+                    "objetos más grandes. Una componente en Hibernate es un objeto persistente contenido\n" +
+                    "dentro de la misma tabla de su propietario. ej: Clásico ejemplo del nombre/dirección de\n" +
+                    "una persona, La tabla persona tiene que contener los elementos correspondientes a los objetos name y\n" +
+                    "adress. Así como al resto de las propiedades de persona. Los tipos de estas propiedades\n" +
+                    "pueden ser cualquier tipo de los soportados por Hibernate, incluso más componentes, colecciones y relaciones. Por último destacar que cuando un componente es nulo todas\n" +
+                    "sus propiedades lo son a la hora de guardarlo en la BBDD. En el caso contrario cuando, cargamos un objeto a memoria, si todas las propiedades del elemento son nulas el\n" +
+                    "elemento es nulo\n",
+
+    };</string>
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Habilitar recomendaciones sociales</string>
+    <string name="pref_description_social_recommendations">Recomendaciones para las personas en contacto basado en el historial de mensajes </string>
+
+    <string name="pref_title_display_name">Mostrar nombre</string>
+    <string name="pref_default_display_name">Erika Cabrera</string>
+
+    <string name="pref_title_add_friends_to_messages">
+Añadir amigos a los mensajes</string>
+    <string-array name="pref_example_list_titles">
+        <item>Siempre</item>
+        <item>Cuando sea posible</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Datos &amp; Sincronización</string>
+
+    <string name="pref_title_sync_frequency">Frecuencia de sincronización</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>3 horas</item>
+        <item>6 horas</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+            <string name="pref_title_system_sync_settings">
+Configuración de sincronización del sistema</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+
+    <string name="pref_title_new_message_notifications">
+Nuevas notificaciones de mensajes</string>
+
+    <string name="pref_title_ringtone">Tono de llamada</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
+
+
+    <string name="developers">Desarrollador</string>
+    <string name="name">Erika Cabrera Rincón</string>
+    <string name="subject">Asignatura</string>
+    <string name="subject2">Desarrollo de Aplicaciones 3</string>
+    <string name="universidad">Universidad</string>
+    <string name="university">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="bibliografia">Bibliografía: \n\n\n Hibernate.pdf \n http://ing-sw.blogspot.mx/2005/04/tipos-de-pruebas-de-software.html \n https://github.com/</string>
+    <string name="audio">Audio : \n\n\n\n Titulo: Introducción Hibernate, Autor: Erika Cabrera Rincón</string>
+    <string name="score">Tu calificación es</string>
+
+    <!-- Enviar Resultados ala correo en la grafiac -->
+    <string name="result">Resultados de Hibernate</string>
+    <string name="email">Esto es un correo enviado la aplicaciòn de Hibernate\n\n</string>
+    <string name="quiz_1">"Calificación Quiz I: "</string>
+    <string name="curso">"Acreditaste el curso: "</string>
+    <string name="quiz6">"\nCalificación Quiz VI: "</string>
+    <string name="quiz_5">"\nCalificación Quiz V: "</string>
+    <string name="quiz_4">"\nCalificación Quiz IV: "</string>
+    <string name="quiz_3">"\nCalificación Quiz III: "</string>
+    <string name="quiz_2">"\nCalificación Quiz II: "</string>
+    <string name="porcentaje">0%.</string>
+    <string name="email_1">"Email "</string>
+    <string name="elaegido">elegido</string>
+
+    <string name="sc">score</string>
+    <string name="Desarrollador">Desarrollador</string>
+    <string name="Descripcion">Bienvenido a la Sección De Videos </string>
+    <string name="Registro_Datos">REGISTRA TUS DATOS AHORA:</string>
+
+    <string name="intent">"Intento(s) "</string>
+    <string name="hib">hibernate</string>
+
+    <string-array name="type">
+        <item>Nuevo Juego</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+</resources>

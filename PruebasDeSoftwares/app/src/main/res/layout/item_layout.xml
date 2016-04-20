@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/black_gradient"
+    >
+    <ImageView
+        android:layout_width="195dp"
+        android:layout_height="141dp"
+        android:src="@drawable/automation"
+        android:id="@android:id/icon"
+        android:layout_margin="10dp"
+        />
+    <!-- -->
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/txv_item"
+    android:textSize="10pt"
+    android:textColor="@color/colorBlanco"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+
+    />
+</LinearLayout>

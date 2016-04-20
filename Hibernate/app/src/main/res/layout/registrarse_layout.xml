@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#fbf8f8"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Registro_Datos"
+        android:textColor="@color/colorAzul"
+        android:textSize="10pt"
+        android:padding="10pt"
+        />
+    <EditText android:id="@+id/edt_name"
+        android:textColor="@color/colorAzul"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/colorAzul"
+        android:hint="Nombre"
+        android:layout_width="200dip"
+        android:textAlignment="center"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText android:id="@+id/edt_usuario"
+        android:textColor="@color/colorAzul"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/colorAzul"
+        android:hint="Nombre usuario"
+        android:layout_width="200dip"
+        android:textAlignment="center"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText android:id="@+id/edt_contrasenia1"
+        android:textColor="@color/colorAzul"
+        android:textColorHint="@color/colorAzul"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:password="true"
+        android:textAlignment="center"
+        android:layout_width="200dip"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText android:id="@+id/edt_contrasenia2"
+        android:textColor="@color/colorAzul"
+        android:textColorHint="@color/colorAzul"
+        android:layout_height="wrap_content"
+        android:hint="Contraseña"
+        android:password="true"
+        android:textAlignment="center"
+        android:layout_width="200dip"
+        android:singleLine="true"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText android:id="@+id/edt_correo"
+        android:textColor="@color/colorNegro"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/colorAzul"
+        android:hint="Correo"
+        android:textAlignment="center"
+        android:layout_width="200dip"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+    <Button android:layout_height="wrap_content"
+        android:background="#23ecf0"
+        android:id="@+id/btn_guardar"
+        android:text="@string/btn_guardar"
+        android:textColor="@color/colorNegro"
+        android:textStyle="bold"
+        android:layout_width="100dip"
+        android:layout_marginTop="6dip"
+        android:onClick="onSignUpClick"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center_horizontal"
+      />
+    <Button android:layout_height="wrap_content"
+        android:background="#16faf2"
+        android:id="@+id/btn_regresar"
+        android:text="@string/btn_regresar"
+        android:textColor="@color/colorNegro"
+        android:textStyle="bold"
+        android:layout_width="100dip"
+        android:layout_marginTop="6dip"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center_horizontal"
+        />
+
+
+</LinearLayout>
+
+</LinearLayout>

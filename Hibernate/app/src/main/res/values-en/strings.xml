@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hibernate</string>
+
+    <!-- SignUp activity -->
+    <string name="signup_label">Last.fm: Sign Up</string>
+    <string name="signup_create_account">Create Account</string>
+    <string name="edt_usuario">Users</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email">e-mail</string>
+    <string name="signup_saving">Create your acount</string>
+
+    <!-- LastFm main activity -->
+    <string name="main_username">Users</string>
+    <string name="main_password">Password</string>
+    <string name="main_login">Login</string>
+    <string name="main_signup">Sing in</string>
+    <string name="main_newaccount">&quot;You don't have acount?&quot;</string>
+    <string name="main_authenticating">Autentication</string>
+    <string name="main_forgotpassword">Olvidé mi contraseña</string>
+
+    <!--botones -->
+
+    <string name="btn_menu">Menu</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_guardar">Save</string>
+    <string name="login_valido">erika</string>
+    <string name="clave_valida">123</string>
+    <string name="error_autenticar">LOGIN O PASS INCORRECTOS</string>
+
+    <!-- pag bienvenido_layout-->
+    <string name="Introduccion">Hibernate es una herramienta de Mapeo objeto-relacion \n
+        (ORM) para la plataforma Java (y disponible también para .Net con el nombre de NHibernate)\n
+        que facilita el mapeo deatributos entre una base de datos relacional tradicional y el \n
+        modelo de objetos de unaaplicación, mediante archivos declarativos (XML) o anotaciones \n
+        en los beanslas entidades que permiten establecer estas relaciones. </string>
+    <string name="intro">Esta aplicación abraca los temas mas importantes de Hibernate.\n\n\n</string>
+    <string name="bienvenido">Welcome to cource Hibrenate \n \n \n</string>
+
+    <!--Menu-->
+    <string name="drawer_opened">Opened</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="remitente">tema</string>
+    <string name="asunto">subtema</string>
+    <string name="str_Siguiente">Next</string>
+
+</resources>

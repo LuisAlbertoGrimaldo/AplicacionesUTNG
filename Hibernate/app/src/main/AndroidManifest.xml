@@ -1,0 +1,64 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.edu.utng.hibernate">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/hib"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" android:label="SlidingMenuExample"></activity>
+        <activity android:name=".RegistrarseActivity"></activity>
+        <activity android:name=".BienvenidoActivity"></activity>
+        <activity android:name=".ListViewActivity"></activity>
+        <activity android:name=".SeleccionActivity"></activity>
+        <activity android:name=".VideoActivity"></activity>
+        <activity android:name=".AcercaDeActivity"></activity>
+
+        <activity android:name=".MusicaActivity"></activity>
+        <activity android:name=".SettingsActivity"></activity>
+
+
+        <activity android:name=".questions.QuestionUnoActivity"></activity>
+        <activity android:name=".questions.QuestionDosActivity"></activity>
+        <activity android:name=".questions.QuestionTresActivity"></activity>
+        <activity android:name=".questions.QuestionCuatroActivity"></activity>
+        <activity android:name=".questions.QuestionCincoActivity"></activity>
+        <activity android:name=".questions.QuestionSeisActivity"></activity>
+        <activity android:name=".questions.ResultActivity"></activity>
+        <activity android:name=".questions.ResultDosActivity"></activity>
+        <activity android:name=".questions.ResultTresActivity"></activity>
+        <activity android:name=".questions.ResultCuatroActivity"></activity>
+        <activity android:name=".questions.ResultCincoActivity"></activity>
+        <activity android:name=".questions.ResultSeisActivity"></activity>
+        <!-- fin Actividades del paquete quiz -->
+
+        <!-- Inicio Actividades del paquete grafica -->
+        <activity android:name=".grafica.GraphAChartEngineActivity"></activity>
+
+        <activity android:name="org.achartengine.GraphicalActivity" />
+
+
+        <activity android:name=".practicas.QuizActivityPracticas"></activity>
+
+        
+        <activity android:name=".practicas.ResultadoActivityPracticas"></activity>
+
+        <activity android:name=".estrategia.Manager"/>
+        <activity android:name=".EmailActivity"></activity>
+
+
+
+
+
+    </application>
+
+</manifest>

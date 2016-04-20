@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_item_uno" android:title="@string/menu1"  android:background="@drawable/black_gradient" />
+    <item android:id="@+id/menu_item_dos" android:title="@string/menu2"  android:background="@drawable/black_gradient" />
+    <item android:id="@+id/menu_item_tres" android:title="@string/menu3"  android:background="@drawable/black_gradient" />
+    <item android:id="@+id/menu_item_cuatro" android:title="@string/menu4"  android:background="@drawable/black_gradient" />
+    <item android:id="@+id/menu_item_cinco" android:title="@string/menu5"  android:background="@drawable/black_gradient" />
+</menu>

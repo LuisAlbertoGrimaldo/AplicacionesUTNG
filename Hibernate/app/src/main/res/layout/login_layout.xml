@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#fbfafa"
+    android:orientation="vertical" android:gravity="center_horizontal">
+
+    <ImageView android:id="@+id/ImageView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hiber"
+        android:layout_margin="48dip">
+
+    </ImageView>
+
+
+    <Button android:layout_height="wrap_content"
+        android:background="#13eed1"
+        android:id="@+id/btn_registar"
+        android:text="Registrar"
+        android:textColor="@color/colorNegro"
+        android:onClick="onButtonClick"
+        android:textStyle="bold"
+        android:layout_width="200dip"
+        android:layout_marginTop="12dip"/>
+
+    <EditText android:id="@+id/edt_usuario"
+        android:textColor="@color/colorNegro"
+        android:textColorHint="@color/colorAzul"
+        android:layout_height="wrap_content"
+        android:hint="@string/main_username"
+        android:layout_width="200dip"
+        android:singleLine="true"/>
+
+    <EditText android:id="@+id/edt_password"
+        android:layout_height="wrap_content"
+        android:hint="@string/main_password"
+        android:textColorHint="@color/colorAzul"
+        android:textColor="@color/colorAzul"
+        android:layout_width="200dip"
+        android:password="true"
+        android:maxLines="1"
+        android:singleLine="true"
+       />
+
+    <Button android:layout_height="wrap_content"
+        android:background="#1ee4cc"
+        android:id="@+id/btn_entrar"
+        android:text="@string/main_login"
+        android:onClick="onButtonClick"
+        android:textColor="@color/colorNegro"
+        android:textStyle="bold"
+        android:layout_width="100dip"
+        android:layout_marginTop="6dip"/>
+
+    <TextView android:layout_width="wrap_content"
+        android:textColor="@color/colorNegro"
+        android:layout_height="wrap_content"
+        android:text="@string/main_newaccount"
+        android:layout_marginTop="54dip"></TextView>
+
+</LinearLayout>
+
