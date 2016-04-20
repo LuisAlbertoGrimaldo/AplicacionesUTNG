@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_quiz_dos.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\menu\\activity_quiz_dos.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_result_dos.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\menu\\activity_result_dos.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

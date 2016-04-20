@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@color/colorVerde"
+android:orientation="vertical"
+    >
+
+
+<Button
+    android:id="@+id/PieGraph"
+    android:layout_height="wrap_content"
+    android:onClick="pieGraphHandler"
+    android:layout_width="fill_parent"
+    android:text="@string/show_grafh"/>
+
+
+    <Button
+        android:id="@+id/btnEnviarEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="@string/send_answer" />
+
+
+
+
+</LinearLayout>

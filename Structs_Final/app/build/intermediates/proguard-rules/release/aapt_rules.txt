@@ -1,0 +1,200 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:10
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:2
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/app_bar_main.xml #generated:26
+-keep class android.support.design.widget.FloatingActionButton { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:16
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/app_bar_main.xml #generated:15
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class mx.edu.utng.structs_final.SettingsActivity { <init>(...); }
+
+# view res/xml/pref_headers.xml #generated:14
+-keep class mx.edu.utng.structs_final.SettingsActivity$DataSyncPreferenceFragment { <init>(...); }
+
+# view res/xml/pref_headers.xml #generated:5
+-keep class mx.edu.utng.structs_final.SettingsActivity$GeneralPreferenceFragment { <init>(...); }
+
+# view res/xml/pref_headers.xml #generated:9
+-keep class mx.edu.utng.structs_final.SettingsActivity$NotificationPreferenceFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class mx.edu.utng.structs_final.VideoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class mx.edu.utng.structs_final.correo.EmailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class mx.edu.utng.structs_final.grafica.GraphAChartEngineActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class mx.edu.utng.structs_final.juego.Manager { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class mx.edu.utng.structs_final.model.AcercaDeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class mx.edu.utng.structs_final.model.ListViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class mx.edu.utng.structs_final.model.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class mx.edu.utng.structs_final.model.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class mx.edu.utng.structs_final.model.MusicaActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class mx.edu.utng.structs_final.model.QuizActivityDos { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class mx.edu.utng.structs_final.model.RegistrarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class mx.edu.utng.structs_final.model.ResultadoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class mx.edu.utng.structs_final.model.SeleccionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class mx.edu.utng.structs_final.practicas.QuizActivityPracticas { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class mx.edu.utng.structs_final.practicas.ResultadoActivityPracticas { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class mx.edu.utng.structs_final.questions.QuestionCincoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class mx.edu.utng.structs_final.questions.QuestionCuatroActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class mx.edu.utng.structs_final.questions.QuestionDosActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class mx.edu.utng.structs_final.questions.QuestionSeisActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class mx.edu.utng.structs_final.questions.QuestionTresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class mx.edu.utng.structs_final.questions.QuestionUnoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class mx.edu.utng.structs_final.questions.ResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class mx.edu.utng.structs_final.questions.ResultCincoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class mx.edu.utng.structs_final.questions.ResultCuatroActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class mx.edu.utng.structs_final.questions.ResultDosActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class mx.edu.utng.structs_final.questions.ResultSeisActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class mx.edu.utng.structs_final.questions.ResultTresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class org.achartengine.GraphicalActivity { <init>(...); }
+
+# onClick res/layout/login.xml #generated:44
+# onClick res/layout/login.xml #generated:52
+-keepclassmembers class * { *** onButtonClick(...); }
+
+# onClick res/layout/email_layout.xml #generated:8
+# onClick res/layout/grafica_layout.xml #generated:18
+-keepclassmembers class * { *** onClick(...); }
+
+# onClick res/layout/registrar.xml #generated:71
+-keepclassmembers class * { *** onSignUpClick(...); }
+
+# onClick res/layout/grafica_layout.xml #generated:10
+-keepclassmembers class * { *** pieGraphHandler(...); }
+
+# onClick res/layout/activity_result_quiz_uno_layout.xml #generated:20
+-keepclassmembers class * { *** playagain(...); }
+
+# onClick res/layout/activity_result_quiz_uno_layout.xml #generated:32
+-keepclassmembers class * { *** saveresult(...); }
+

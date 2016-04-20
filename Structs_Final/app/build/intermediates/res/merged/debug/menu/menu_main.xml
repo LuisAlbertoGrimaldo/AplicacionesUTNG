@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:menu_app="http://schemas.android.com/apk/res-auto"
+    tools:context="mx.edu.utng.aplicaccion_android.List"
+    >
+
+    <item
+        android:id="@+id/itm_video"
+        android:title="@string/avanze"
+        menu_app:showAsAction="never"></item>
+
+
+
+
+
+    <item
+        android:id="@+id/itm_ognl"
+        android:title="@string/OGNL"
+        menu_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_formularios"
+        android:title="@string/formularios"
+        menu_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_objectos"
+        android:title="@string/web"
+        menu_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_result"
+        android:title="@string/resut"
+        menu_app:showAsAction="never"></item>
+
+
+    <item
+    android:id="@+id/itm_interceptores"
+    android:title="@string/interceptores"
+    menu_app:showAsAction="never"></item>
+
+
+    <item
+        android:id="@+id/itm_action"
+        android:title="@string/action"
+        menu_app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/itm_grafica"
+        android:title="@string/calificaciones"
+        menu_app:showAsAction="never"></item>
+
+
+    <item
+        android:id="@+id/itm_salir"
+        android:title="@string/exit"
+        menu_app:showAsAction="never"
+
+        ></item>
+
+
+
+
+
+
+
+</menu>

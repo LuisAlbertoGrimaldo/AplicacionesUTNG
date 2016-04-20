@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_temario"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/tema" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/videos1" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/audios" />
+        <item
+            android:id="@+id/nav_pruebas_codigo"
+            android:icon="@drawable/ic_examen"
+            android:title="@string/uiqui" />
+
+
+        <item
+            android:id="@+id/nav_pruebas"
+            android:icon="@drawable/ic_examen"
+            android:title="@string/pruebas" />
+
+
+        <item
+            android:id="@+id/nav_configuracion"
+            android:icon="@drawable/configuracion"
+            android:title="@string/configuracion" />
+
+
+
+
+
+
+        <item
+            android:id="@+id/nav_juego"
+            android:icon="@drawable/juego"
+            android:title="@string/game" />
+
+
+        <item
+            android:id="@+id/nav_correo"
+            android:icon="@drawable/ic_correo"
+            android:title="Enviar Correo" />
+
+
+
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about" />
+
+    </group>
+
+
+
+</menu>

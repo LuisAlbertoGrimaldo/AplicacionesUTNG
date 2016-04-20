@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">Struts</string>
+
+    <string name="navigation_drawer_open">Abrir tu navegador</string>
+    <string name="navigation_drawer_close">Cierra tu navegador</string>
+
+    <string name="action_settings">Extras</string>
+    <string name="Extras">Extras</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="iniciar">Entrar</string>
+    <string name="registrarte">Nuevo Registro</string>
+    <string name="registrar">Registrate</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="empresa">Empresa</string>
+    <string name="materia">Materia</string>
+    <string name="version">Versiòn</string>
+    <string name="bibliografia">Bibliografìa</string>
+    <string name="str_next">Siguiente</string>
+    <string name="menu_settings">conf</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="contraseniaa">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="usuarion">Usuario</string>
+    <string name="contrasenia1">Contraseña</string>
+    <string name="confirmar_contrasenia">Confirmar Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="videos">Videos</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="inicio">Por que tu eres lo màs importante para nosotros te invitamos a participar simultaneamente reafirmar tus conocimientos en STRUTS aprovecha</string>
+    <string name="registrarse1">Registrase</string>
+    <string name="bienvenida">Bienvenido!</string>
+    <string name="contenido">Por que tu eres lo más importante para nosotros te invitamos a participar simultáneamente reafirmar tus conocimientos en STRUTS. Es un framework que implementa el patrón de arquitectura MVC en JavaUn framework es la extensión de un lenguaje mediante una o más jerarquías de clases que implementan una funcionalidad y que (opcionalmente) pueden ser extendidas. El framework puede involucrar TagLibraries.
+
+        El patrón de arquitectura MVC (Model-View-Controller) es un patrón que define la organización independiente del Model (Objetos de Negocio), la View (interfaz con el usuario u otro sistema) y el Controller (controlador del workflow de la aplicación).</string>
+    <string name="utng">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="video">Videos</string>
+
+
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Habilitar recomendaciones sociales</string>
+    <string name="pref_description_social_recommendations">Recomendaciones para las personas en contacto
+         basado en el historial de mensajes
+    </string>
+
+    <string name="pref_title_display_name">Mostrar nombre</string>
+    <string name="pref_default_display_name">Saúl Moctezuma</string>
+
+    <string name="pref_title_add_friends_to_messages">Añadir amigos a los mensajes</string>
+    <string-array name="pref_example_list_titles">
+        <item>Siempre</item>
+        <item>Cuando sea posible</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Datos &amp; sincronización</string>
+
+    <string name="pref_title_sync_frequency">Frecuencia de sincronización</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>3 hora</item>
+        <item>6 hora</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Configuración de sincronización del sistema</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+
+    <string name="pref_title_new_message_notifications">Nuevas notificaciones de mensajes</string>
+
+    <string name="pref_title_ringtone">Tono de llamada</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
+    <string name="developers">Desarrollador</string>
+    <string name="name">Saúl Aarón González Moctezuma</string>
+    <string name="subject">Asignatura</string>
+    <string name="subject2">Desarrollo de Aplicaciones 3</string>
+    <string name="universidad">Universidad</string>
+    <string name="university">Universidad Tecnológica del Norte de Guanajuato</string>
+    <string name="score">Tu calificación es</string>
+
+
+    <string name="sc">score</string>
+    <string name="video1">Video 1</string>
+    <string name="video2">Video 2</string>
+    <string name="video4">Video 3</string>
+    <string name="video5">Video 4</string>
+    <string name="text">intenta otra vez</string>
+    <string name="large">Intenta otra vez</string>
+    <string name="text1">Intenta otra vez</string>
+    <string name="start">Iniciar</string>
+    <string name="pause">Pausa</string>
+    <string name="strcuuts">Struts</string>
+    <string name="tema">Temario</string>
+    <string name="videos1">Videos</string>
+    <string name="audios">Audios</string>
+    <string name="uiqui">Pruebas de còdigo</string>
+    <string name="help">Ayuda</string>
+    <string name="about">Acerca</string>
+    <string name="configuracion">Configuración</string>
+    <string name="show_video">Ver video</string>
+    <string name="OGNL">Quiz OGNL</string>
+    <string name="formularios">Quiz Trabajo con formularios</string>
+    <string name="web">Quiz Scopes con objectos web</string>
+    <string name="resut">Quiz Tipos de resut</string>
+    <string name="interceptores">Quiz Interceptores</string>
+    <string name="exit">Salir</string>
+    <string name="pulsada">"Pestaña pulsada: "</string>
+    <string name="videostab">Videos</string>
+    <string name="tabvideos">Videos</string>
+    <string name="tabAudios">Audios</string>
+    <string name="audios11">Audios</string>
+    <string name="example">example_text</string>
+    <string name="list">example_list</string>
+    <string name="new_rigtnone">Tono de notificación de nuevo mensaje</string>
+    <string name="frecuencia">Frecuencia de sincronización</string>
+    <string name="exit1">Salir</string>
+    <string name="send_email">Enviar un correo</string>
+    <string name="accion">Accion</string>
+    <string name="ayuda">Estos videos son de ayuda , para reforar tus conocimientos y sea una manera màs dinámica de aprender</string>
+    <string name="password">Contraseña y/o Usuario no valido (s)</string>
+    <string name="usernamee">Usuario</string>
+    <string name="calificaciom">Tu calificaciòn</string>
+    <string name="score11">score</string>
+    <string name="youn">Tu</string>
+    <string name="scorre">score</string>
+    <string name="not">Las Contraseñas No Coinciden</string>
+    <string name="datasave">Datos Guardados</string>
+    <string name="again">"Opps,intenta otra vez,Tienes que leer mas sobre Struts "</string>
+    <string name="reed">"Opps,intenta otra vez,Tienes que leer màs sobre Struts "</string>
+    <string name="regular">Bien avanza al siguiente quiz.</string>
+    <string name="goog">Excelente vas muy bien</string>
+    <string name="calificaciones">Gráfica de Calificaciones</string>
+    <string name="pruebas">Pruebas</string>
+    <string name="action">Quiz Action</string>
+    <string name="game">Juego</string>
+    <string name="intent">"Intento(s) "</string>
+    <string name="avanze">Ver avance del curso</string>
+    <string name="result">Resultados de STRUTS</string>
+    <string name="email">Esto es un correo enviado la aplicaciòn de STRUTS.\n\n</string>
+    <string name="quiz_1">"Calificación Quiz I: "</string>
+    <string name="curso">"Acreditaste el curso: "</string>
+    <string name="quiz6">"\nCalificación Quiz VI: "</string>
+    <string name="quiz_5">"\nCalificación Quiz V: "</string>
+    <string name="quiz_4">"\nCalificación Quiz IV: "</string>
+    <string name="quiz_3">"\nCalificación Quiz III: "</string>
+    <string name="quiz_2">"\nCalificación Quiz II: "</string>
+    <string name="porcentaje">0%.</string>
+    <string name="email_1">"Email "</string>
+    <string name="elaegido">elegido</string>
+    <string name="posicion1">posición</string>
+    <string name="descripcion1">descripción</string>
+    <string name="seleccion1">"Selección:  "</string>
+    <string name="elegido2">elegido</string>
+    <string name="posicion2">posición</string>
+    <string name="descripcion2">descripción</string>
+    <string name="seleccion2">"Selección:  "</string>
+    <string name="resultado">"Resultado traido es "</string>
+    <string name="aprueba_quiz_1">" Aprueba el Quiz I"</string>
+    <string name="elegido_3">elegido</string>
+    <string name="posicion_3">posición</string>
+    <string name="descripcion_3">descripción</string>
+    <string name="seleccion3">"Seleccion:  "</string>
+    <string name="resultado_es">"Resultado traido es "</string>
+    <string name="aprueba_quiz_3">" Aprueba el Quiz II"</string>
+    <string name="elegido_4">elegido</string>
+    <string name="posicion">posición</string>
+    <string name="descripcion4">descripción</string>
+    <string name="resultado1">"Resultado traido es "</string>
+    <string name="resultado2"><![CDATA[" OBTEN un resultado >3 en el quiz 1"]]></string>
+    <string name="resultado3">"Resultado traido es "</string>
+    <string name="resultadoquiz3"><![CDATA[" OBTEN un resultado >5 en el quiz 2"]]></string>
+    <string name="resultado_4">"Resultado traido es "</string>
+    <string name="resultado_quiz_4"><![CDATA[" OBTEN un resultado > 3 en el quiz 3"]]></string>
+    <string name="resultado_quiz_5">"Resultado obtenido es "</string>
+    <string name="resultado_quiz_6"><![CDATA[" OBTEN un resultado > 3 en el quiz 4"]]></string>
+    <string name="resultado_6">"Resultado traido es "</string>
+    <string name="treaer_resultado6"><![CDATA[" OBTEN un resultado > 3 en el quiz 5"]]></string>
+    <string name="posisicion">posicion</string>
+    <string name="name_1">"Nombre: "</string>
+    <string name="chose">elegido</string>
+    <string name="description">Descripción: \n</string>
+    <string name="descrption_1">descripcion</string>
+    <string name="intentos">"Intentos: "</string>
+    <string name="link">https://training.github.com/resources/videos/</string>
+    <string name="apoyo">http://www.javatutoriales.com/</string>
+    <string name="credito">Crèditos</string>
+    <string name="show_grafh">Mostrar Gráfica</string>
+    <string name="send_answer">Enviar Resultados</string>
+
+
+    <string-array name="type">
+        <item>Nuevo Juego</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+
+</resources>

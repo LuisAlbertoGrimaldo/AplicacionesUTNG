@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="videos">
+        <item>Introdución</item>
+        <item>Configuración</item>
+        <item>OGNL</item>
+        <item>Trabajo de formularios</item>
+        <item>Scopes con objectos web</item>
+        <item>Tipos de result</item>
+        <item>Interceptores</item>
+
+
+    </string-array>
+
+
+    <string-array name="audios">
+        <item>Introdución</item>
+        <item>Configuración</item>
+        <item>OGNL</item>
+        <item>Trabajo de formularios</item>
+        <item>Scopes con objectos web</item>
+        <item>Mas informacion</item>
+        <item>Tipos de result</item>
+        <item>Interceptores</item>
+
+
+
+
+    </string-array>
+
+
+
+    <string-array name="temas">
+
+    <item>1.Configuración</item>
+    <item>2.OGNL</item>
+    <item>3.Trabajo de formularios</item>
+    <item>4.Scopes con objectos web</item>
+    <item>5.Mas información</item>
+    <item>6.Tipos de result</item>
+    <item>7.Interceptores</item>
+    </string-array>
+
+
+    <string-array name="descripciones">
+
+        <item>
+             "Cuando desarrollamos aplicaciones web es importante que estas puedan ser creadas de forma rápida y eficiente. Hoy en día existen muchos frameworks, los cuales nos proporcionan un cascarón para las aplicaciones. Nosotros solo debemos implementar la lógica propia de la aplicación, configurar el framework mediante algún mecanismo como anotaciones o archivos XML, y estos se encargan de hacer la mayor parte del trabajo tedioso o repetitivo.\n" +
+                    "\n"
+                    "Struts 2 es un framework para el desarrollo de aplicaciones web, el cual hace que la implementación de las mismas sea más sencillo, más rápido, y con menos complicaciones. Además hace que estas sean más robustas y flexibles. El objetivo de Struts 2 es muy sencillo: hacer que el desarrollo de aplicaciones web sea simple para los desarrolladores.\n" +
+                    "Los interceptores son clases que siguen el patrón interceptor. Estos permiten que se implementen funcionalidades cruzadas o comunes para todos los Actions, pero que se ejecuten fuera del Action (por ejemplo validaciones de datos, conversiones de tipos, población de datos, etc.).\n" +
+                    "\n"
+                    "Los interceptores realizan tareas antes y después de la ejecución de un Action y también pueden evitar que un Action se ejecute (por ejemplo si estamos haciendo alguna validación que no se ha cumplido).\n"
+                    "Las acciones o Actions son clases encargadas de realizar la lógica para servir una petición. Cada URL es mapeada a una acción específica, la cual proporciona la lógica necesaria para servir a cada petición hecha por el usuario\n" +
+                    "Después que un Action ha sido procesado se debe enviar la respuesta de regreso al usuario, esto se realiza usando results. Este proceso tiene dos componentes, el tipo del result y el result mismo.\n"
+                    "\n"
+                    "El tipo del result indica cómo debe ser tratado el resultado que se le regresará al cliente. Por ejemplo un tipo de Result puede enviar al usuario de vuelta una JSP (lo que haremos más a menudo), otro puede redirigirlo hacia otro sitio, mientras otro puede enviarle un flujo de bytes (para descargar un archivo por ejemplo).\n" +
+                    "\n"
+
+
+
+
+        </item>
+        "OGNL es el acrónimo de Object Graph Navigation Language, un lenguaje de expresiones muy poderoso que nos permite leer valores de objetos Java. Este lenguaje nos permite leer valores y ejecutar métodos (que regresen algún valor) para mostrar los valores o resultados de los mismos en nuestras páginas JSP creadas usando las etiquetas de Struts. Además proporciona una conversión automática de tipos que permite convertir datos desde texto HTTP a objetos Java.\n"
+        "Otra parte interesante del uso de OGNL viene cuando queremos obtener los valores de las constantes de una enumeración. Si recuerdan, nuestra clase \"Constantes\" tiene una enumeración llamada \"Datos\". Como cada uno de los valores de una enumeración es una constante (o sea una variable publica, estática, y final) obtener sus valores es igual a obtener cualquier otro valor de una variable estática. O sea que tenemos que usar la sintaxis de la doble arroba.\n"
+        "Si necesitamos realizar la selección de un subconjunto de una colección (que en términos formales se llama proyección), OGNL proporciona un conjunto de comodines para eso:\n"
+        "  Para obtener todos los elementos que coinciden con la lógica de selección.\n"
+        " Para seleccionar solo el primer elemento que coincida con la lógica de selección. \n"
+        "  Para seleccionar solo el último elemento que coincida con la lógica de selección
+        <item>
+
+
+
+        </item>
+        <item>En el desarrollo de aplicaciones web, una de las partes más importantes que existen (sino es que la más importante) es el manejo de datos que son recibidos del usuario a través de los formularios de nuestra aplicación.
+
+Aunque es algo que usamos (y hacemos) todos los días, el manejo de los datos de los formularios puede ser un poco engañoso, por no decir complicado, cuando comenzamos a trabajar con la recepción de múltiples valores para un mismo parámetro, o cuando de antemano no conocemos los nombres de los parámetros que recibiéremos; esto sin mencionar las validaciones para los distintos tipos de datos, la carga y descarga de archivos, etc.
+
+En este tutorial aprenderemos la forma en la que se trabaja con formularios en Struts 2, y cómo manejar todas las situaciones mencionadas anteriormente. Concretamente aprenderemos cómo hacer 7 cosas: recepción de parámetros simples, cómo hacer que el framework llene de forma automática los atributos de un objeto si es que todos los datos del formulario pertenecen a ese objeto, a recibir múltiples valores para un mismo parámetro, cómo recibir parámetros cuando no conocemos el nombre de los mismos, a realizar validaciones de datos de varias maneras, cómo subir archivos al servidor, y cómo enviar archivos desde el servidor hacia nuestros clientes</item>
+
+        <item>
+
+
+            Estos tiempos de vida son llamados scopes, y en las aplicaciones web tenemos un cierto número de ellos. Es importante conocer estos scopes y ver qué tipo de información es conveniente colocar en cada uno de ellos. A la información que colocamos en los distintos scopes les llamamos atributos.
+
+También algunas veces es necesario tener un acceso directamente a los objetos del API de Servlets, como el "HttpServletRequest", o el "ServletContext", o a los parámetros de la petición,
+
+Struts 2 nos proporciona una forma simple y elegante, además de diversa, para manejar todas estas cosas y en este tutorial aprenderemos estas maneras ^_^.
+
+Las aplicaciones web con Java tienen básicamente tres scopes o tiempos de vida:
+
+Application: Es el scope más largo ya que abarca el tiempo de vida completo de la apicación; esto es, los datos vivirán mientras la aplicación esté activa.
+Session: Este scope nos permite tener datos que vivirán a lo largo de múltiples peticiones HTTP para un mismo usuario, mientras el usuario esté dentro de la aplicación. Cada usuario verá únicamente sus datos y no habrá forma de que vea los de los demás.
+Request: Este es el scope más pequeño, los datos asociados con la petición únicamente estarán disponibles mientras se realiza dicha petición.
+        </item>
+
+
+        <item>Cada vez que un Action termina su ejecución, se muestra un resultado al usuario. Estos resultados pueden ser de muchos tipos y tener muchos significados. El tipo más común de resultado es mostrar al usuario una nueva página web cierta información, pero ¿si quisiéramos hacer otra cosa? ¿Qué ocurre si queremos regresar un archivo como texto plano? ¿Y cuando queremos regresar un archivo binario? ¿Y su necesitamos redirigir la petición a otro Action o enviar al usuario a otra página?
+
+Los casos anteriores también son muy comunes cuando desarrollamos una aplicación web.
+
+Struts 2 ofrece una gran variedad de tipos de Results para manejar estas y otras situaciones y que aprenderemos cómo usar en este tutorial.
+
+Primero lo primero, aunque los hemos estado usando a lo largo de esta serie de tutoriales, nunca hemos definido de una forma clara qué es un Result. Cuando el método "execute" de un Action termina de ejecutarse este siempre regresa un objeto de tipo String. El valor de ese String se usa para seleccionar un elemento de tipo result, si trabajamos con archivos de configuración en XML, o "@Result", si trabajamos con anotaciones. Dentro del elemento se indica qué tipo de Result se quiere regresar al usuario (enviar un recurso, redirigirlo a otro Action, un archivo de texto plano, etc.), el recurso que se quiere regresar, algunos parámetros adicionales que requiera el Result y, lo más importante, el nombre que tendrá este Result, en donde este nombre es precisamente lo que se indica con la cadena que es regresada de la ejecución del método "execute".</item>
+
+
+        <item>Al desarrollar una aplicación, es necesario desarrollar algunas funcionalidades de utilidad que nos hagan más fácil el desarrollo de los procesos de negocio en los cuales estamos interesados. Algunos ejemplos de estas funcionalidades pueden ser el verificar que el usuario haya iniciado una sesión en el sistema, o que tenga permisos para ejecutar la operación que está solicitando, convertir los parámetros de un tipo a otro (de String a Date, o a int), verificar que se hayan proporcionado los datos que son obligatorios, agregar alguna información a la sesión del usuario, etc.
+
+La mayoría de estas funcionalidades pueden ser creadas de una forma genérica y usadas en varias partes de nuestra aplicación o en varias aplicaciones.
+
+Struts 2 integra un mecanismo que nos permite abstraer estas funcionalidades de una manera sencilla, aplicarlas de forma transparente a las acciones que la necesiten (que pueden ser desde una hasta todas las acciones de la aplicación) y configurarlas a través del uso de parámetros.
+
+En este tutorial aprenderemos cómo configurar los interceptores que vienen integrados con Struts 2, además de crear nuestros propios interceptores, agregarlos a un Action, y agregarlos a la pila que se aplica por default a los Actions de nuestra aplicación.</item>
+
+
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_doce.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_doce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\examen.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\examen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ognl.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ognl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_veintiuno.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_veintiuno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_diezysiete.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_diezysiete.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_diez.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_diez.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logoutng.PNG",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\logoutng.PNG"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_diezyseis.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_diezyseis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_sync_black_24dp.png",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_acerca.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_acerca.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\acerca.png",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\acerca.png"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_quince.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_quince.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_once.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_once.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\objectosweb.jpeg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\objectosweb.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_info_black_24dp.png",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_veinte.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_veinte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\salir.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\salir.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_cuatro.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_cuatro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\configg.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\configg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\iconostruts.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\iconostruts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_tres.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_tres.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_correo.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_correo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_catorce.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_catorce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_trece.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_trece.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\structs.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\structs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_dos.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_dos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\intercep.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\intercep.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_siete.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_siete.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\inte.jpeg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\inte.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\configuracion.png",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\configuracion.png"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_uno.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_uno.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_nueve.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_nueve.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\correo.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\correo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\formularios.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\formularios.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_diezyocho.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_diezyocho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_diezynueve.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_diezynueve.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\black_gradient.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\black_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\difeere.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\difeere.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\introd.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\introd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_examen.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_examen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_seis.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_seis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_notifications_black_24dp.png",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_ocho.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_ocho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\juego.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\juego.jpg"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\card_cinco.jpg",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\drawable\\card_cinco.jpg"
+    }
+]

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mx.edu.utng.structs_final"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconostruts"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="mx.edu.utng.structs_final.model.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Inicio Actividades del paquete model -->
+        <activity
+            android:name="mx.edu.utng.structs_final.model.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="mx.edu.utng.structs_final.model.AcercaDeActivity" />
+        <activity android:name="mx.edu.utng.structs_final.model.RegistrarActivity" />
+        <activity android:name="mx.edu.utng.structs_final.model.SeleccionActivity" />
+        <activity android:name="mx.edu.utng.structs_final.model.ListViewActivity" />
+        <activity android:name="mx.edu.utng.structs_final.model.QuizActivityDos" />
+        <activity android:name="mx.edu.utng.structs_final.model.ResultadoActivity" />
+        <activity android:name="mx.edu.utng.structs_final.model.MusicaActivity" />
+        <!-- Fin Actividades del paquete model -->
+
+        <activity android:name="mx.edu.utng.structs_final.VideoActivity" />
+        <activity android:name="mx.edu.utng.structs_final.SettingsActivity" />
+        <activity android:name="mx.edu.utng.structs_final.practicas.QuizActivityPracticas" />
+        <activity android:name="mx.edu.utng.structs_final.practicas.ResultadoActivityPracticas" />
+
+        <!-- Inicio Actividades del paquete quiz -->
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionUnoActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionDosActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionTresActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionCuatroActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionCincoActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.QuestionSeisActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultDosActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultTresActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultCuatroActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultCincoActivity" />
+        <activity android:name="mx.edu.utng.structs_final.questions.ResultSeisActivity" />
+        <!-- fin Actividades del paquete quiz -->
+
+
+        <!-- Inicio Actividades del paquete grafica -->
+        <activity android:name="mx.edu.utng.structs_final.grafica.GraphAChartEngineActivity" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+
+        <!-- fin Actividades del paquete grafica -->
+
+
+        <!-- Inicio Actividades del paquete juego y correo -->
+        <activity android:name="mx.edu.utng.structs_final.juego.Manager" />
+        <activity android:name="mx.edu.utng.structs_final.correo.EmailActivity" />
+        <!-- Fin Actividades del paquete juego y correo -->
+
+    </application>
+
+</manifest>

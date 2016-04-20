@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "C:\\Users\\erika\\AndroidStudioProjects\\tachhho\\Structs_Final\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    }
+]
